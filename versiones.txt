@@ -1,0 +1,7 @@
+0.8.0 -> 2017/02/10 Mantenedores
+0.8.4 -> 2017/02/22 Entega oficial de desarrollo
+0.8.5 -> 2017/04/10 Modificaciones de css
+0.9.0 -> 2017/04/13 Exportar excel
+0.9.1 -> 2017/04/20 Solucion de ingreso de datos
+0.9.2 -> 2017/04/20 Configuraciones para usuario externo (solo visualiza)
+0.9.3 -> Resumen general de movimientos en pagina principal

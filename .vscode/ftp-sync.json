@@ -1,0 +1,17 @@
+{
+    "remotePath": "/",
+    "host": "www.enorchile.com",
+    "username": "rd@enorchile.com",
+    "password": "enor123.",
+    "port": 21,
+    "protocol": "ftp",
+    "uploadOnSave": true,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store"
+    ]
+}
